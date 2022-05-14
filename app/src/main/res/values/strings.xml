@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Doctor</string>
+    <string name="title_home">Home</string>
+    <string name="title_doctor">Докторы</string>
+    <string name="title_patient">Пациенты</string>
+    <string name="title_patient_add">Записаться на прием</string>
+</resources>
